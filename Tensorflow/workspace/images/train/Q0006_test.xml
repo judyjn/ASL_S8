@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Q0006_test.jpg</filename>
+	<path>C:\Users\JINSHID\Desktop\Final Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Q0006_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>13</ymin>
+			<xmax>160</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

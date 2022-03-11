@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>nothing0016_test.jpg</filename>
+	<path>C:\Users\JINSHID\Desktop\Final Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\nothing0016_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nothing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>9</ymin>
+			<xmax>200</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
